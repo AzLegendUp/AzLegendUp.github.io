@@ -108,7 +108,7 @@ header {
 
     /* header mobil */
 
-@media (min-width:200px){
+@media (min-width:320px){
 
    .container {
     grid-template-columns: repeat(1, 1fr);
